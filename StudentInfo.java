@@ -3,7 +3,6 @@
 * methods call to show the student information. Fill the box with your personal
 * information.
 *
-* @author Marcel Turcotte (marcel.turcotte@uottawa.ca)
 */
 
 public class StudentInfo {
