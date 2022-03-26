@@ -5,7 +5,7 @@
  * It automatically maintain the current state of
  * the game as players are making moves.
  *
- * @author Guy-Vincent Jourdan, University of Ottawa
+ * @author Professor && Amani Louendriz
  */
 public class TicTacToeGame {
 
@@ -159,7 +159,6 @@ public class TicTacToeGame {
 			setGameState(next);
 		}
 
-		// UPDATE HERE IF NEEDED
 	}
 
 
