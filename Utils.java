@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.io.Console;
+/*@author Amani Louendriz*/
 
 public class Utils {
 	public static final Random generator = new Random();
