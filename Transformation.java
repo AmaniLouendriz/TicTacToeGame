@@ -5,7 +5,7 @@
  * <b>VSYM</b> (vertical symmetry).
  * and <b>HSYM</b> (horiuzontal symmetry).
  *
- * @author Guy-Vincent Jourdan, University of Ottawa
+
  */
 
 public enum Transformation {
