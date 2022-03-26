@@ -4,7 +4,7 @@
  * <b>ROT</b> (rotation)
  * <b>VSYM</b> (vertical symmetry).
  * and <b>HSYM</b> (horiuzontal symmetry).
- *
+ *@ author Amani Louendriz
 
  */
 
