@@ -1,4 +1,5 @@
 import java.util.LinkedList;
+/*@author Professor/*
 
 public class ListOfGamesGenerator {
 	
